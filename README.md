@@ -1,3 +1,5 @@
+# ChangeLog
+No major revisions made. The repo in itself works flawlessly for the stated features.
 # libfaceid, a Face Recognition library for everybody
 
 <p>
